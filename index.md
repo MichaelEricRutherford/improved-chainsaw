@@ -10,11 +10,7 @@ We added a change.
 
 
 
-Add some text B
 
-
-
-Add some text C
 
 
 
