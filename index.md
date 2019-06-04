@@ -8,6 +8,8 @@ We added a change.
 
 
 
+Hook Windmill, also known as Old Hook Mill, pictured here in 2016, is a historic windmill on North Main Street in East Hampton, New York.
+It was built in 1806 and operated regularly until 1908
 
 
 
