@@ -1,3 +1,2 @@
 * Exmoor
 * Dartmoor
-* Bodmin Moor
