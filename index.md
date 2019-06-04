@@ -2,8 +2,5 @@ This is a heading
 =================
 Here is some text. The best text.
 The best text in the history of text.
-And a bit of extra text for the end.
 
-And of course, a change is welcome.
-
-We can add a special change at the end..
+We added a change
